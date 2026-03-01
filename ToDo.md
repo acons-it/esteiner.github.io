@@ -7,7 +7,7 @@ ToDo
 ### Prio 1
 
 - [ ] Filter für Weinart auf Keller Seite und Kellerarbeit Seite
-- [ ] Optimierung: Porto, Geschenkpackung, Rabatt, etc. aus Bestellung entfernen
+- [X] Optimierung: Porto, Geschenkpackung, Rabatt, etc. aus Bestellung entfernen
 - [ ] Server von Python auf Quarkus migrieren
 
 ### Prio 2
